@@ -1,0 +1,4 @@
+
+.slider-thumb::-webkit-slider-thumb {
+    background-color: linear-gradient(#7EE249, #F2F047);
+}
